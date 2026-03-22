@@ -1,4 +1,4 @@
-![Preview](https://sharzhukov.ru/img/graphics/about/local.jpg)
+![Preview](https://sharzhukov.ru/img/graphics/about/local.png)
 ### Hello.
 
 I Information security specialist with expertise in video game development and an experienced software architect, as well as API and website.
