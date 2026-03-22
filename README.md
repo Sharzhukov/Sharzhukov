@@ -1,7 +1,13 @@
-## Hi there 👋
+![Preview](https://sharzhukov.ru/img/graphics/about/history.jpg)
+### Hello.
+
+I Information security specialist with expertise in video game development and an experienced software architect, as well as API and website.
+
+Currently working in Yandex.
+
 
 <!--
-**Sharzhukov/Sharzhukov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**DAGINATSUKO/daginatsuko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
