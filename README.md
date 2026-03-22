@@ -1,7 +1,10 @@
-![Preview](https://sharzhukov.ru/img/graphics/about/history.jpg)
+![Preview](https://sharzhukov.ru/img/graphics/about/local.jpg)
 ### Hello.
 
 I Information security specialist with expertise in video game development and an experienced software architect, as well as API and website.
+
+My big project is the Sharzhukov Laboratory
+Sharzhukov Laboratory — It is a web-based platform and a software development and support project. The main goal of the project is to create modern software using advanced technologies. 
 
 Currently working in Yandex.
 
