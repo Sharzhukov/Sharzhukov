@@ -28,7 +28,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">🐉 Flowseal / experienced coder </h1>
 
 ###
 
@@ -37,10 +36,11 @@ Here are some ideas to get you started:
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="cplusplus logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=java" height="40" alt="python logo"  />
+  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
-  adsasd
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=cmake" height="40" alt="cmake logo"  />
 </div>
 
 ###
@@ -48,37 +48,38 @@ Here are some ideas to get you started:
 <div align="center">
   <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=github" height="40" alt="githubactions logo"  />
+  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=dotnet" height="40" alt="dotnet logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=azure" height="40" alt="azure logo"  />
+  
+  
 </div>
 
 ###
 
-<div align="center">
+<div align="right">
   <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=visualstudio" height="40" alt="visualstudio logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=arduino" height="40" alt="arduino logo"  />'
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=replit" height="40" alt="replit logo"  />'
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=godot" height="40" alt="godot logo"  />'
+  <img width="12" />
 </div>
-
-###
-
-<p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=Flowseal&theme=bear&show_icons=true&hide_border=true&count_private=true&locale=ru">
-</p>
-
-###
-
-<p align="center">
-  <img src="https://github-profile-trophy-tawny.vercel.app/?username=Flowseal&theme=radical&no-frame=true&no-bg=true&margin-w=4">
-</p>
 
 ###
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Flowseal/Flowseal/refs/heads/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Flowseal/Flowseal/refs/heads/output/github-contribution-grid-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/Flowseal/Flowseal/refs/heads/output/github-contribution-grid-snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sharzhukov/Sharzhukov/refs/heads/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sharzhukov/Sharzhukov/refs/heads/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/Sharzhukov/Sharzhukov/refs/heads/output/github-contribution-grid-snake.svg" />
   </picture>
 </p>
