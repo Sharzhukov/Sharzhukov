@@ -2,37 +2,6 @@
 
 ###
 
-![Preview](https://sharzhukov.ru/img/graphics/about/local.png)
-
-### Hello. ⚡
-
-I Information security specialist with expertise in video game development and an experienced software architect, as well as API and website.
-
-My big project is the Sharzhukov Laboratory
-Sharzhukov Laboratory — It is a web-based platform and a software development and support project. The main goal of the project is to create modern software using advanced technologies. 
-
-Currently working in Yandex.
-
-
-<!--
-**Sharzhukov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-<h3 align="center">i`m usе</h3>
-
-###
-
 <div align="center">
   <img src="https://skillicons.dev/icons?i=cs" height="36" alt="csharp logo"  />
   <img width="12" />
@@ -72,10 +41,28 @@ Here are some ideas to get you started:
 
 ###
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sharzhukov/Sharzhukov/refs/heads/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sharzhukov/Sharzhukov/refs/heads/output/github-contribution-grid-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/Sharzhukov/Sharzhukov/refs/heads/output/github-contribution-grid-snake.svg" />
-  </picture>
-</p>
+![Preview](https://sharzhukov.ru/img/graphics/about/local.png)
+
+### Hello. ⚡
+
+I Information security specialist with expertise in video game development and an experienced software architect, as well as API and website.
+
+My big project is the Sharzhukov Laboratory
+Sharzhukov Laboratory — It is a web-based platform and a software development and support project. The main goal of the project is to create modern software using advanced technologies. 
+
+Currently working in Yandex.
+
+<!--
+**Sharzhukov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
