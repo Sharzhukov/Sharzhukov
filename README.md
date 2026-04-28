@@ -31,43 +31,44 @@ Here are some ideas to get you started:
 
 ###
 
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=cs" height="40" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=cmake" height="40" alt="cmake logo"  />
+<div>
+  <div align="left">
+    <img src="https://skillicons.dev/icons?i=cs" height="40" alt="csharp logo"  />
+    <img width="12" />
+    <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="cplusplus logo"  />
+    <img width="12" />
+    <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
+    <img width="12" />
+    <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
+    <img width="12" />
+    <img src="https://skillicons.dev/icons?i=cmake" height="40" alt="cmake logo"  />
+  </div>
+  
+  <div align="center">
+    <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
+    <img width="12" />
+    <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
+    <img width="12" />
+    <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
+    <img width="12" />
+    <img src="https://skillicons.dev/icons?i=dotnet" height="40" alt="dotnet logo"  />
+    <img width="12" />
+    <img src="https://skillicons.dev/icons?i=azure" height="40" alt="azure logo"  />
+  </div>
+  
+  <div align="right">
+    <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
+    <img width="12" />
+    <img src="https://skillicons.dev/icons?i=visualstudio" height="40" alt="visualstudio logo"  />
+    <img width="12" />
+    <img src="https://skillicons.dev/icons?i=arduino" height="40" alt="arduino logo"  />'
+    <img width="12" />
+    <img src="https://skillicons.dev/icons?i=replit" height="40" alt="replit logo"  />'
+    <img width="12" />
+    <img src="https://skillicons.dev/icons?i=godot" height="40" alt="godot logo"  />'
+    <img width="12" />
+  </div>
 </div>
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=dotnet" height="40" alt="dotnet logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=azure" height="40" alt="azure logo"  />
-</div>
-
-<div align="right">
-  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=visualstudio" height="40" alt="visualstudio logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=arduino" height="40" alt="arduino logo"  />'
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=replit" height="40" alt="replit logo"  />'
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=godot" height="40" alt="godot logo"  />'
-  <img width="12" />
-</div>
-
 ###
 
 <p align="center">
