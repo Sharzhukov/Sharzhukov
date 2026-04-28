@@ -4,7 +4,7 @@
 
 ![Preview](https://sharzhukov.ru/img/graphics/about/local.png)
 
-###⚡ Hello.
+### Hello. ⚡
 
 I Information security specialist with expertise in video game development and an experienced software architect, as well as API and website.
 
@@ -15,7 +15,7 @@ Currently working in Yandex.
 
 
 <!--
-**DAGINATSUKO/daginatsuko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Sharzhukov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -43,8 +43,6 @@ Here are some ideas to get you started:
   <img src="https://skillicons.dev/icons?i=cmake" height="40" alt="cmake logo"  />
 </div>
 
-###
-
 <div align="center">
   <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
   <img width="12" />
@@ -55,11 +53,7 @@ Here are some ideas to get you started:
   <img src="https://skillicons.dev/icons?i=dotnet" height="40" alt="dotnet logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=azure" height="40" alt="azure logo"  />
-  
-  
 </div>
-
-###
 
 <div align="right">
   <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
