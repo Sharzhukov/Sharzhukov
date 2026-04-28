@@ -44,7 +44,7 @@ Here are some ideas to get you started:
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=cmake" height="36" alt="cmake logo"  />
 
-  <img width="72" />
+  <img width="48" />
   
   <img src="https://skillicons.dev/icons?i=git" height="36" alt="git logo"  />
   <img width="12" />
@@ -56,7 +56,7 @@ Here are some ideas to get you started:
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=azure" height="36" alt="azure logo"  />
 
-  <img width="72" />
+  <img width="48" />
   
   <img src="https://skillicons.dev/icons?i=vscode" height="36" alt="vscode logo"  />
   <img width="12" />
@@ -69,3 +69,11 @@ Here are some ideas to get you started:
   <img src="https://skillicons.dev/icons?i=godot" height="36" alt="godot logo"  />'
   <img width="12" />
 </div>
+
+<p>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+    <img alt="github-snake" src="github-snake.svg" />
+  </picture>
+</p>
