@@ -13,7 +13,7 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=cmake" height="36" alt="cmake logo"  />
 
-  <img width="48" />
+  <img width="24" />
   
   <img src="https://skillicons.dev/icons?i=git" height="36" alt="git logo"  />
   <img width="12" />
@@ -25,18 +25,17 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=azure" height="36" alt="azure logo"  />
 
-  <img width="48" />
+  <img width="24" />
   
   <img src="https://skillicons.dev/icons?i=vscode" height="36" alt="vscode logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=visualstudio" height="36" alt="visualstudio logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=arduino" height="36" alt="arduino logo"  />'
+  <img src="https://skillicons.dev/icons?i=arduino" height="36" alt="arduino logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=replit" height="36" alt="replit logo"  />'
+  <img src="https://skillicons.dev/icons?i=replit" height="36" alt="replit logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=godot" height="36" alt="godot logo"  />'
-  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=godot" height="36" alt="godot logo"  />
 </div>
 
 ###
