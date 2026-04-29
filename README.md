@@ -13,7 +13,7 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=cmake" height="36" alt="cmake logo"  />
 
-  <img width="24" />
+  <img width="12" />
   
   <img src="https://skillicons.dev/icons?i=git" height="36" alt="git logo"  />
   <img width="12" />
@@ -25,7 +25,7 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=azure" height="36" alt="azure logo"  />
 
-  <img width="24" />
+  <img width="12" />
   
   <img src="https://skillicons.dev/icons?i=vscode" height="36" alt="vscode logo"  />
   <img width="12" />
