@@ -40,7 +40,7 @@
 
 ###
 
-![Preview](https://sharzhukov.ru/img/graphics/about/local.png)
+![Preview](https://sharzhukov.ru/img/graphics/about/locale.png)
 
 ### Hello. ⚡
 
