@@ -9,7 +9,7 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=java" height="36" alt="java logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=react" height="36" alt="react logo"  />
+  <img src="https://skillicons.dev/icons?i=rust" height="36" alt="react logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=cmake" height="36" alt="cmake logo"  />
 
@@ -33,7 +33,7 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=arduino" height="36" alt="arduino logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=replit" height="36" alt="replit logo"  />
+  <img src="https://skillicons.dev/icons?i=xcode" height="36" alt="replit logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=godot" height="36" alt="godot logo"  />
 </div>
