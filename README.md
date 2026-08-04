@@ -4,15 +4,15 @@
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=cpp" height="48" alt="cpp logo"  />
-  <img width="36" />
+  <img width="60" />
   <img src="https://skillicons.dev/icons?i=cs" height="48" alt="cs logo"  />
-  <img width="36" />
+  <img width="60" />
   <img src="https://skillicons.dev/icons?i=c" height="48" alt="c logo"  />
-  <img width="36" />
+  <img width="60" />
   <img src="https://skillicons.dev/icons?i=rust" height="48" alt="rust logo"  />
-  <img width="36" />
+  <img width="60" />
   <img src="https://skillicons.dev/icons?i=java" height="48" alt="java logo"  />
-  <img width="36" />
+  <img width="60" />
   <img src="https://skillicons.dev/icons?i=mysql" height="48" alt="mysql logo"  />
 </div>
 <div align="center">  
@@ -30,21 +30,21 @@
 </div>
 <div align="center">   
   <img src="https://skillicons.dev/icons?i=arduino" height="48" alt="arduino logo"  />
-  <img width="36" />
+  <img width="60" />
   <img src="https://skillicons.dev/icons?i=ai" height="48" alt="ai logo"  />
-  <img width="36" />
+  <img width="60" />
   <img src="https://skillicons.dev/icons?i=ps" height="48" alt="ps logo"  />
-  <img width="36" />
+  <img width="60" />
   <img src="https://skillicons.dev/icons?i=windows" height="48" alt="windows logo"  />
-  <img width="36" />
+  <img width="60" />
   <img src="https://skillicons.dev/icons?i=apple" height="48" alt="apple logo"  />
-  <img width="36" />
+  <img width="60" />
   <img src="https://skillicons.dev/icons?i=nix" height="48" alt="nix logo"  />
 </div>
 
 ###
 
-![Preview](https://sharzhukov.ru/img/graphics/about/locale.png)
+![Preview](https://sharzhukov.ru/img/graphics/about/gihub-readme.png)
 
 ### Hello World. ⚡
 
