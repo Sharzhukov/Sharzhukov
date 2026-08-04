@@ -17,15 +17,15 @@
 </div>
 <div align="center">  
   <img src="https://skillicons.dev/icons?i=git" height="48" alt="git logo"  />
-  <img width="36" />
+  <img width="60" />
   <img src="https://skillicons.dev/icons?i=cmake" height="48" alt="cmake logo"  />
-  <img width="36" />
+  <img width="60" />
   <img src="https://skillicons.dev/icons?i=dotnet" height="48" alt="dotnet logo"  />
-  <img width="36" />
+  <img width="60" />
   <img src="https://skillicons.dev/icons?i=azure" height="48" alt="azure logo"  />
-  <img width="36" />
+  <img width="60" />
   <img src="https://skillicons.dev/icons?i=vscode" height="48" alt="vscode logo"  />
-  <img width="36" />
+  <img width="60" />
   <img src="https://skillicons.dev/icons?i=visualstudio" height="48" alt="visualstudio logo"  />
 </div>
 <div align="center">   
