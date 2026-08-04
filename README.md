@@ -3,20 +3,20 @@
 ###
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=cs" height="36" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=cpp" height="36" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=java" height="36" alt="java logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=rust" height="36" alt="react logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=cmake" height="36" alt="cmake logo"  />
+  <img src="https://skillicons.dev/icons?i=cpp" height="48" alt="csharp logo"  />
+  <img width="24" />
+  <img src="https://skillicons.dev/icons?i=cs" height="48" alt="cplusplus logo"  />
+  <img width="24" />
+  <img src="https://skillicons.dev/icons?i=c" height="48" alt="java logo"  />
+  <img width="24" />
+  <img src="https://skillicons.dev/icons?i=rust" height="48" alt="react logo"  />
+  <img width="24" />
+  <img src="https://skillicons.dev/icons?i=java" height="48" alt="cmake logo"  />
 </div>
 <div align="center">  
   <img src="https://skillicons.dev/icons?i=git" height="36" alt="git logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=github" height="36" alt="github logo"  />
+  <img src="https://skillicons.dev/icons?i=cmake" height="36" alt="github logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=mysql" height="36" alt="mysql logo"  />
   <img width="12" />
@@ -24,15 +24,14 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=azure" height="36" alt="azure logo"  />
 </div>
-  <img width="12" />
-  
+<div align="center">   
   <img src="https://skillicons.dev/icons?i=vscode" height="36" alt="vscode logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=visualstudio" height="36" alt="visualstudio logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=arduino" height="36" alt="arduino logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=xcode" height="36" alt="replit logo"  />
+  <img src="https://skillicons.dev/icons?i=androidstudio" height="36" alt="replit logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=godot" height="36" alt="godot logo"  />
 </div>
