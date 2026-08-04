@@ -42,7 +42,7 @@
 
 ![Preview](https://sharzhukov.ru/img/graphics/about/locale.png)
 
-### Hello. ⚡
+### Hello World. ⚡
 
 I Information security specialist with expertise in video game development and an experienced software architect, as well as API and website.
 
