@@ -2,6 +2,10 @@
 
 ###
 
+![Preview](https://sharzhukov.ru/img/graphics/about/gihub-readme.png)
+
+###
+
 <div align="center">
   <img src="https://skillicons.dev/icons?i=cpp" height="48" alt="cpp logo"  />
   <img width="60" />
@@ -41,10 +45,6 @@
   <img width="60" />
   <img src="https://skillicons.dev/icons?i=nix" height="48" alt="nix logo"  />
 </div>
-
-###
-
-![Preview](https://sharzhukov.ru/img/graphics/about/gihub-readme.png)
 
 ### Hello World. ⚡
 
