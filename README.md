@@ -12,9 +12,8 @@
   <img src="https://skillicons.dev/icons?i=rust" height="36" alt="react logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=cmake" height="36" alt="cmake logo"  />
-
-  <img width="12" />
-  
+</div>
+<div align="center">  
   <img src="https://skillicons.dev/icons?i=git" height="36" alt="git logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=github" height="36" alt="github logo"  />
@@ -24,7 +23,7 @@
   <img src="https://skillicons.dev/icons?i=dotnet" height="36" alt="dotnet logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=azure" height="36" alt="azure logo"  />
-
+</div>
   <img width="12" />
   
   <img src="https://skillicons.dev/icons?i=vscode" height="36" alt="vscode logo"  />
