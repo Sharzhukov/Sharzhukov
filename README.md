@@ -12,50 +12,34 @@
   <img src="https://skillicons.dev/icons?i=rust" height="48" alt="rust logo"  />
   <img width="36" />
   <img src="https://skillicons.dev/icons?i=java" height="48" alt="java logo"  />
+  <img width="36" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="48" alt="mysql logo"  />
 </div>
 <div align="center">  
   <img src="https://skillicons.dev/icons?i=git" height="48" alt="git logo"  />
   <img width="36" />
   <img src="https://skillicons.dev/icons?i=cmake" height="48" alt="cmake logo"  />
   <img width="36" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="48" alt="mysql logo"  />
-  <img width="36" />
   <img src="https://skillicons.dev/icons?i=dotnet" height="48" alt="dotnet logo"  />
   <img width="36" />
   <img src="https://skillicons.dev/icons?i=azure" height="48" alt="azure logo"  />
-</div>
-<div align="center">   
+  <img width="36" />
   <img src="https://skillicons.dev/icons?i=vscode" height="48" alt="vscode logo"  />
   <img width="36" />
   <img src="https://skillicons.dev/icons?i=visualstudio" height="48" alt="visualstudio logo"  />
-  <img width="36" />
+</div>
+<div align="center">   
   <img src="https://skillicons.dev/icons?i=arduino" height="48" alt="arduino logo"  />
-  <img width="36" />
-  <img src="https://skillicons.dev/icons?i=androidstudio" height="48" alt="androidstudio logo"  />
-  <img width="36" />
-  <img src="https://skillicons.dev/icons?i=godot" height="48" alt="godot logo"  />
-</div>
-<div align="center">   
-  <img src="https://skillicons.dev/icons?i=windows" height="48" alt="windows logo"  />
-  <img width="36" />
-  <img src="https://skillicons.dev/icons?i=apple" height="48" alt="apple logo"  />
-  <img width="36" />
-  <img src="https://skillicons.dev/icons?i=kali" height="48" alt="kali logo"  />
-  <img width="36" />
-  <img src="https://skillicons.dev/icons?i=arch" height="48" alt="arch logo"  />
-  <img width="36" />
-  <img src="https://skillicons.dev/icons?i=nix" height="48" alt="nix logo"  />
-</div>
-<div align="center">   
-  <img src="https://skillicons.dev/icons?i=stackoverflow" height="48" alt="stackoverflow logo"  />
-  <img width="36" />
-  <img src="https://skillicons.dev/icons?i=qt" height="48" alt="qt logo"  />
-  <img width="36" />
-  <img src="https://skillicons.dev/icons?i=blender" height="48" alt="blender logo"  />
   <img width="36" />
   <img src="https://skillicons.dev/icons?i=ai" height="48" alt="ai logo"  />
   <img width="36" />
   <img src="https://skillicons.dev/icons?i=ps" height="48" alt="ps logo"  />
+  <img width="36" />
+  <img src="https://skillicons.dev/icons?i=windows" height="48" alt="windows logo"  />
+  <img width="36" />
+  <img src="https://skillicons.dev/icons?i=apple" height="48" alt="apple logo"  />
+  <img width="36" />
+  <img src="https://skillicons.dev/icons?i=nix" height="48" alt="nix logo"  />
 </div>
 
 ###
