@@ -64,14 +64,12 @@ Currently working at **Yandex**.
 
 ### 🔧 Technologies & Tools
 
-|-------------------------------------------------------------------|
 |        Area        |                     Tech                     |
 |-------------|-----------------------------------------------------|
 | **Languages**      | C++, C, C#, Java                             |
 | **Build & Tools**  | CMake, Git, VS, VS Code, XCode, .NET, Azure  |
 | **Devices**        | Windows, macOS, Nix, Arduino                 |
 | **Design**         | Illustrator, Photoshop                       |
-|-------------------------------------------------------------------|
 
 ---
 
