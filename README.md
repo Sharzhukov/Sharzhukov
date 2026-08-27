@@ -1,71 +1,99 @@
-<h1 align="center">🐼 Sharzhukov / software developer 🦝</h1>
+<h1 align="center">🐼 Sharzhukov · Software Developer</h1>
 
 ###
 
-![Preview](https://sharzhukov.ru/img/graphics/about/gihub-readme.png)
+<p align="center">
+  <img src="https://sharzhukov.ru/img/graphics/about/gihub-readme.png" alt="Preview" width="600">
+</p>
 
 ###
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=cpp" height="48" alt="cpp logo"  />
-  <img width="60" />
-  <img src="https://skillicons.dev/icons?i=cs" height="48" alt="cs logo"  />
-  <img width="60" />
-  <img src="https://skillicons.dev/icons?i=c" height="48" alt="c logo"  />
-  <img width="60" />
-  <img src="https://skillicons.dev/icons?i=rust" height="48" alt="rust logo"  />
-  <img width="60" />
-  <img src="https://skillicons.dev/icons?i=java" height="48" alt="java logo"  />
-  <img width="60" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="48" alt="mysql logo"  />
-</div>
-<div align="center">  
-  <img src="https://skillicons.dev/icons?i=git" height="48" alt="git logo"  />
-  <img width="60" />
-  <img src="https://skillicons.dev/icons?i=cmake" height="48" alt="cmake logo"  />
-  <img width="60" />
-  <img src="https://skillicons.dev/icons?i=dotnet" height="48" alt="dotnet logo"  />
-  <img width="60" />
-  <img src="https://skillicons.dev/icons?i=azure" height="48" alt="azure logo"  />
-  <img width="60" />
-  <img src="https://skillicons.dev/icons?i=vscode" height="48" alt="vscode logo"  />
-  <img width="60" />
-  <img src="https://skillicons.dev/icons?i=visualstudio" height="48" alt="visualstudio logo"  />
-</div>
-<div align="center">   
-  <img src="https://skillicons.dev/icons?i=arduino" height="48" alt="arduino logo"  />
-  <img width="60" />
-  <img src="https://skillicons.dev/icons?i=ai" height="48" alt="ai logo"  />
-  <img width="60" />
-  <img src="https://skillicons.dev/icons?i=ps" height="48" alt="ps logo"  />
-  <img width="60" />
-  <img src="https://skillicons.dev/icons?i=windows" height="48" alt="windows logo"  />
-  <img width="60" />
-  <img src="https://skillicons.dev/icons?i=apple" height="48" alt="apple logo"  />
-  <img width="60" />
-  <img src="https://skillicons.dev/icons?i=nix" height="48" alt="nix logo"  />
+  <img src="https://skillicons.dev/icons?i=cpp" height="48" alt="C++" />
+  <img width="20" />
+  <img src="https://skillicons.dev/icons?i=cs" height="48" alt="C#" />
+  <img width="20" />
+  <img src="https://skillicons.dev/icons?i=c" height="48" alt="C" />
+  <img width="20" />
+  <img src="https://skillicons.dev/icons?i=rust" height="48" alt="Rust" />
+  <img width="20" />
+  <img src="https://skillicons.dev/icons?i=java" height="48" alt="Java" />
+  <img width="20" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="48" alt="MySQL" />
 </div>
 
-### Hello World. ⚡
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=git" height="48" alt="Git" />
+  <img width="20" />
+  <img src="https://skillicons.dev/icons?i=cmake" height="48" alt="CMake" />
+  <img width="20" />
+  <img src="https://skillicons.dev/icons?i=dotnet" height="48" alt=".NET" />
+  <img width="20" />
+  <img src="https://skillicons.dev/icons?i=azure" height="48" alt="Azure" />
+  <img width="20" />
+  <img src="https://skillicons.dev/icons?i=vscode" height="48" alt="VS Code" />
+  <img width="20" />
+  <img src="https://skillicons.dev/icons?i=visualstudio" height="48" alt="Visual Studio" />
+</div>
 
-I Information security specialist with expertise in video game development and an experienced software architect, as well as API and website.
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=arduino" height="48" alt="Arduino" />
+  <img width="20" />
+  <img src="https://skillicons.dev/icons?i=ai" height="48" alt="Illustrator" />
+  <img width="20" />
+  <img src="https://skillicons.dev/icons?i=ps" height="48" alt="Photoshop" />
+  <img width="20" />
+  <img src="https://skillicons.dev/icons?i=windows" height="48" alt="Windows" />
+  <img width="20" />
+  <img src="https://skillicons.dev/icons?i=apple" height="48" alt="macOS" />
+  <img width="20" />
+  <img src="https://skillicons.dev/icons?i=nix" height="48" alt="Nix" />
+</div>
 
-My big project is the Sharzhukov Laboratory
-Sharzhukov Laboratory — It is a web-based platform and a software development and support project. The main goal of the project is to create modern software using advanced technologies. 
+###
 
-Currently working in Yandex.
+## 👋 Hello World.
 
-<!--
-**Sharzhukov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I engaged in information security. I have experience in **software development**, **video games**, **web development** and **API design**, as well as experience in cryptography.
 
-Here are some ideas to get you started:
+My major project — **Sharzhukov Laboratory** — is a web-based platform and a software development hub. The goal is to build modern, secure, and reliable software using advanced technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently working at **Yandex**.
+
+---
+
+### 🔧 Technologies & Tools
+
+|-------------------------------------------------------------------|
+|        Area        |                     Tech                     |
+|-------------|-----------------------------------------------------|
+| **Languages**      | C++, C, C#, Java                             |
+| **Build & Tools**  | CMake, Git, VS, VS Code, XCode, .NET, Azure  |
+| **Devices**        | Windows, macOS, Nix, Arduino                 |
+| **Design**         | Illustrator, Photoshop                       |
+|-------------------------------------------------------------------|
+
+---
+
+### 📌 Featured Projects
+
+- **CoLand** — colony survival simulator in C++ with GUI Framework
+- **Sharzhukov Laboratory** — platform for software development and deployment
+- *More coming soon…*
+
+---
+
+### 📫 My contact
+
+- **Website:** [sharzhukov.ru](https://sharzhukov.ru)
+- **GitHub:** [github.com/Sharzhukov](https://github.com/Sharzhukov)
+- **Telegram:** [@sharzhukov](https://t.me/sharzhukov)
+
+## product contact
+
+- **GitHub:** [github.com/Sharzhukov](https://github.com/SharzhukovLab)
+- **Telegram:** [@sharzhukov](https://t.me/sharzhukovLab)
+
+---
+
+> *“Code is the closest thing we have to magic that actually works.”*
