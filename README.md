@@ -102,7 +102,13 @@ Currently working at **Yandex**.
   </picture>
 </p>
 
+---
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sharzhukov/Sharzhukov/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sharzhukov/Sharzhukov/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Sharzhukov/Sharzhukov/output/github-snake.svg" />
+</picture>
 ---
 
 > *“Code is the closest thing we have to magic that actually works.”*
