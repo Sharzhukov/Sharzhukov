@@ -104,7 +104,7 @@ Currently working at **Yandex**.
 
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sharzhukov)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sharzhukov&v=2)
 
 ---
 
