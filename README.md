@@ -103,8 +103,7 @@ Currently working at **Yandex**.
 </p>
 
 ---
-
-<img src="https://vercel.app" alt="Top Langs" />
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sharzhukov&layout=donut)
 
 ---
 
