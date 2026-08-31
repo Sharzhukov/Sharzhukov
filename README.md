@@ -104,4 +104,8 @@ Currently working at **Yandex**.
 
 ---
 
+<img src="https://vercel.app" alt="Top Langs" />
+
+---
+
 > *“Code is the closest thing we have to magic that actually works.”*
