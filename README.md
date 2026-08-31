@@ -104,8 +104,4 @@ Currently working at **Yandex**.
 
 ---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sharzhukov&v=2)
-
----
-
 > *“Code is the closest thing we have to magic that actually works.”*
