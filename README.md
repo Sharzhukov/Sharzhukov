@@ -96,19 +96,12 @@ Currently working at **Yandex**.
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="[https://githubusercontent.com](https://raw.githubusercontent.com/Sharzhukov/Sharzhukov/refs/heads/output/github-snake-dark.svg)" />
-    <source media="(prefers-color-scheme: light)" srcset="[https://githubusercontent.com](https://raw.githubusercontent.com/Sharzhukov/Sharzhukov/refs/heads/output/github-snake.svg)" />
-    <img alt="github-snake" src="[https://githubusercontent.com](https://raw.githubusercontent.com/Sharzhukov/Sharzhukov/refs/heads/output/github-snake.svg)" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sharzhukov/Sharzhukov/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sharzhukov/Sharzhukov/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/Sharzhukov/Sharzhukov/output/github-snake.svg" />
   </picture>
 </p>
 
----
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sharzhukov/Sharzhukov/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sharzhukov/Sharzhukov/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/Sharzhukov/Sharzhukov/output/github-snake.svg" />
-</picture>
 ---
 
 > *“Code is the closest thing we have to magic that actually works.”*
