@@ -94,4 +94,8 @@ Currently working at **Yandex**.
 
 ---
 
+![Анимация Змейка](https://githubusercontent.com/Sharzhukov/Sharzhukov)
+
+---
+
 > *“Code is the closest thing we have to magic that actually works.”*
