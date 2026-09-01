@@ -9,45 +9,45 @@
 ###
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=cpp" height="48" alt="C++" />
-  <img width="20" />
-  <img src="https://skillicons.dev/icons?i=cs" height="48" alt="C#" />
-  <img width="20" />
-  <img src="https://skillicons.dev/icons?i=c" height="48" alt="C" />
-  <img width="20" />
-  <img src="https://skillicons.dev/icons?i=php" height="48" alt="PHP" />
-  <img width="20" />
-  <img src="https://skillicons.dev/icons?i=java" height="48" alt="Java" />
-  <img width="20" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="48" alt="MySQL" />
+  <img src="https://skillicons.dev/icons?i=cpp" height="60" alt="C++" />
+  <img width="48" />
+  <img src="https://skillicons.dev/icons?i=cs" height="60" alt="C#" />
+  <img width="48" />
+  <img src="https://skillicons.dev/icons?i=c" height="60" alt="C" />
+  <img width="48" />
+  <img src="https://skillicons.dev/icons?i=php" height="60" alt="PHP" />
+  <img width="48" />
+  <img src="https://skillicons.dev/icons?i=java" height="60" alt="Java" />
+  <img width="48" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="60" alt="MySQL" />
 </div>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=git" height="48" alt="Git" />
-  <img width="20" />
-  <img src="https://skillicons.dev/icons?i=cmake" height="48" alt="CMake" />
-  <img width="20" />
-  <img src="https://skillicons.dev/icons?i=dotnet" height="48" alt=".NET" />
-  <img width="20" />
-  <img src="https://skillicons.dev/icons?i=azure" height="48" alt="Azure" />
-  <img width="20" />
-  <img src="https://skillicons.dev/icons?i=vscode" height="48" alt="VS Code" />
-  <img width="20" />
-  <img src="https://skillicons.dev/icons?i=visualstudio" height="48" alt="Visual Studio" />
+  <img src="https://skillicons.dev/icons?i=git" height="60" alt="Git" />
+  <img width="48" />
+  <img src="https://skillicons.dev/icons?i=cmake" height="60" alt="CMake" />
+  <img width="48" />
+  <img src="https://skillicons.dev/icons?i=dotnet" height="60" alt=".NET" />
+  <img width="48" />
+  <img src="https://skillicons.dev/icons?i=azure" height="60" alt="Azure" />
+  <img width="48" />
+  <img src="https://skillicons.dev/icons?i=vscode" height="60" alt="VS Code" />
+  <img width="48" />
+  <img src="https://skillicons.dev/icons?i=visualstudio" height="60" alt="Visual Studio" />
 </div>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=arduino" height="48" alt="Arduino" />
-  <img width="20" />
-  <img src="https://skillicons.dev/icons?i=ai" height="48" alt="Illustrator" />
-  <img width="20" />
-  <img src="https://skillicons.dev/icons?i=ps" height="48" alt="Photoshop" />
-  <img width="20" />
-  <img src="https://skillicons.dev/icons?i=windows" height="48" alt="Windows" />
-  <img width="20" />
-  <img src="https://skillicons.dev/icons?i=apple" height="48" alt="macOS" />
-  <img width="20" />
-  <img src="https://skillicons.dev/icons?i=nix" height="48" alt="Nix" />
+  <img src="https://skillicons.dev/icons?i=arduino" height="60" alt="Arduino" />
+  <img width="48" />
+  <img src="https://skillicons.dev/icons?i=ai" height="60" alt="Illustrator" />
+  <img width="48" />
+  <img src="https://skillicons.dev/icons?i=ps" height="60" alt="Photoshop" />
+  <img width="48" />
+  <img src="https://skillicons.dev/icons?i=windows" height="60" alt="Windows" />
+  <img width="48" />
+  <img src="https://skillicons.dev/icons?i=apple" height="60" alt="macOS" />
+  <img width="48" />
+  <img src="https://skillicons.dev/icons?i=nix" height="60" alt="Nix" />
 </div>
 
 ###
