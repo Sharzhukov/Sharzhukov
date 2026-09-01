@@ -89,8 +89,8 @@ Currently working at **Yandex**.
 
 ## product contact
 
-- **GitHub:** [github.com/Sharzhukov](https://github.com/SharzhukovLab)
-- **Telegram:** [@sharzhukov](https://t.me/sharzhukovLab)
+- **GitHub:** [github.com/SharzhukovLab](https://github.com/SharzhukovLab)
+- **Telegram:** [@sharzhukovLab](https://t.me/sharzhukovLab)
 
 ---
 
