@@ -15,7 +15,7 @@
   <img width="20" />
   <img src="https://skillicons.dev/icons?i=c" height="48" alt="C" />
   <img width="20" />
-  <img src="https://skillicons.dev/icons?i=rust" height="48" alt="PHP" />
+  <img src="https://skillicons.dev/icons?i=php" height="48" alt="PHP" />
   <img width="20" />
   <img src="https://skillicons.dev/icons?i=java" height="48" alt="Java" />
   <img width="20" />
