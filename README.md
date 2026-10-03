@@ -2,12 +2,6 @@
 
 ###
 
-<p align="center">
-  <img src="https://sharzhukov.ru/img/graphics/about/gihub-readme.png" alt="Preview" width="600">
-</p>
-
-###
-
 <div align="center">
   <img src="https://skillicons.dev/icons?i=cpp" height="60" alt="C++" />
   <img width="48" />
