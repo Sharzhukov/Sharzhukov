@@ -1,7 +1,5 @@
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!--  SHARZHUKOV · PROFILE README                                    -->
-<!--  Accent: #FF5C1F · Radius: 12px · Light + Dark theme aware      -->
-<!--  Adaptive: width="100%" · percentage tables · responsive blocks -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
@@ -34,39 +32,25 @@ My major project — **Sharzhukov Laboratory** — is a web-based platform and s
 
 ### 🛠 Tech Stack
 
+| Area | Stack |
+|------|-------|
+| **Languages** | C++ · C# · C · PHP · Java |
+| **Build & Tools** | CMake · Git · .NET · Azure · VS Code · VS |
+| **Platforms** | Windows · macOS · Nix · Arduino |
+| **Design** | Illustrator · Photoshop |
+
 <div align="center">
 
-**Languages**
-<br/>
 <img src="https://skillicons.dev/icons?i=cpp,cs,c,php,java" height="44" alt="Languages" />
-<br/>
-<sub>C++ · C# · C · PHP · Java</sub>
-
-<br/><br/>
-
-**Build & Tools**
-<br/>
+<img width="24" />
 <img src="https://skillicons.dev/icons?i=git,cmake,dotnet,azure,vscode,visualstudio" height="44" alt="Tools" />
-<br/>
-<sub>CMake · Git · .NET · Azure · VS Code · VS</sub>
-
-<br/><br/>
-
-**Platforms**
-<br/>
+<img width="24" />
 <img src="https://skillicons.dev/icons?i=arduino,windows,apple,nix" height="44" alt="Platforms" />
-<br/>
-<sub>Windows · macOS · Nix · Arduino</sub>
-
-<br/><br/>
-
-**Design**
-<br/>
+<img width="24" />
 <img src="https://skillicons.dev/icons?i=ai,ps" height="44" alt="Design" />
-<br/>
-<sub>Illustrator · Photoshop</sub>
 
 </div>
+
 ---
 
 ### 📊 Activity
