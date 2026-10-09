@@ -74,8 +74,17 @@ Currently working at **Yandex**.
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Sharzhukov&show_icons=true&hide_border=true&bg_color=0d1117&title_color=FF5C1F&icon_color=FF5C1F&text_color=c9d1d9&border_radius=12&cache_seconds=3600" />
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sharzhukov&layout=compact&hide_border=true&bg_color=0d1117&title_color=FF5C1F&text_color=c9d1d9&border_radius=12&langs_count=6&cache_seconds=3600" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Sharzhukov&show_icons=true&hide_border=true&bg_color=0d1117&title_color=FF5C1F&icon_color=FF5C1F&text_color=c9d1d9&border_radius=12&cache_seconds=3600" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Sharzhukov&show_icons=true&hide_border=true&bg_color=ffffff&title_color=FF5C1F&icon_color=FF5C1F&text_color=24292f&border_radius=12&cache_seconds=3600" />
+    <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Sharzhukov&show_icons=true&hide_border=true&bg_color=ffffff&title_color=FF5C1F&icon_color=FF5C1F&text_color=24292f&border_radius=12&cache_seconds=3600" />
+  </picture>
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Sharzhukov&layout=compact&hide_border=true&bg_color=0d1117&title_color=FF5C1F&text_color=c9d1d9&border_radius=12&langs_count=6&cache_seconds=3600" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Sharzhukov&layout=compact&hide_border=true&bg_color=ffffff&title_color=FF5C1F&text_color=24292f&border_radius=12&langs_count=6&cache_seconds=3600" />
+    <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sharzhukov&layout=compact&hide_border=true&bg_color=ffffff&title_color=FF5C1F&text_color=24292f&border_radius=12&langs_count=6&cache_seconds=3600" />
+  </picture>
 </div>
 
 ---
