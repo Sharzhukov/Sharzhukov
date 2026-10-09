@@ -1,101 +1,139 @@
-<h1 align="center">🐼 Sharzhukov · Software Developer</h1>
-
-###
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=cpp" height="60" alt="C++" />
-  <img width="48" />
-  <img src="https://skillicons.dev/icons?i=cs" height="60" alt="C#" />
-  <img width="48" />
-  <img src="https://skillicons.dev/icons?i=c" height="60" alt="C" />
-  <img width="48" />
-  <img src="https://skillicons.dev/icons?i=php" height="60" alt="PHP" />
-  <img width="48" />
-  <img src="https://skillicons.dev/icons?i=java" height="60" alt="Java" />
-  <img width="48" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="60" alt="MySQL" />
+
+<a href="https://github.com/Sharzhukov">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=600&lines=Software+Developer;Information+Security;Game+%26+Web+Development;Cryptography+Enthusiast" alt="Typing SVG" />
+</a>
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=Sharzhukov&label=PROFILE+VIEWS&color=0d1117&style=flat-square)
+![Followers](https://img.shields.io/github/followers/Sharzhukov?label=FOLLOWERS&style=flat-square&color=0d1117&logo=github)
+![Stars](https://img.shields.io/github/stars/Sharzhukov?label=STARS&style=flat-square&color=0d1117&logo=github)
+
 </div>
+
+---
+
+### 👤 About Me
+
+```yaml
+name: Sharzhukov
+role: Software Developer @ Yandex
+focus: Information Security · Game Dev · Web & API Design · Cryptography
+mission: "Code is the closest thing we have to magic that actually works."
+```
+
+> I build modern, secure, and reliable software. My major project — **Sharzhukov Laboratory** — is a web-based platform and software development hub. I also work on **CoLand**, a colony survival simulator in C++.
+
+---
+
+### 🛠️ Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=git" height="60" alt="Git" />
-  <img width="48" />
-  <img src="https://skillicons.dev/icons?i=cmake" height="60" alt="CMake" />
-  <img width="48" />
-  <img src="https://skillicons.dev/icons?i=dotnet" height="60" alt=".NET" />
-  <img width="48" />
-  <img src="https://skillicons.dev/icons?i=azure" height="60" alt="Azure" />
-  <img width="48" />
-  <img src="https://skillicons.dev/icons?i=vscode" height="60" alt="VS Code" />
-  <img width="48" />
-  <img src="https://skillicons.dev/icons?i=visualstudio" height="60" alt="Visual Studio" />
+
+**Languages**
+
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+
+**Build & Tools**
+
+![CMake](https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+
+**Design**
+
+![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
+![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=white)
+
 </div>
+
+---
+
+### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=arduino" height="60" alt="Arduino" />
-  <img width="48" />
-  <img src="https://skillicons.dev/icons?i=ai" height="60" alt="Illustrator" />
-  <img width="48" />
-  <img src="https://skillicons.dev/icons?i=ps" height="60" alt="Photoshop" />
-  <img width="48" />
-  <img src="https://skillicons.dev/icons?i=windows" height="60" alt="Windows" />
-  <img width="48" />
-  <img src="https://skillicons.dev/icons?i=apple" height="60" alt="macOS" />
-  <img width="48" />
-  <img src="https://skillicons.dev/icons?i=nix" height="60" alt="Nix" />
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sharzhukov&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sharzhukov&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=c9d1d9&langs_count=8" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=Sharzhukov&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="GitHub Streak" />
+
 </div>
 
-###
+---
 
-## 👋 Hello World.
+### 🏆 Trophies
 
-I engaged in information security. I have experience in **software development**, **video games**, **web development** and **API design**, as well as experience in cryptography.
+<div align="center">
 
-My major project — **Sharzhukov Laboratory** — is a web-based platform and a software development hub. The goal is to build modern, secure, and reliable software using advanced technologies.
+<img src="https://github-profile-trophy.vercel.app/?username=Sharzhukov&theme=onedark&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10" />
 
-Currently working at **Yandex**.
+</div>
 
 ---
 
-### 🔧 Technologies & Tools
+### 📈 Activity Graph
 
-|        Area        |                     Tech                     |
-|-------------|-----------------------------------------------------|
-| **Languages**      | C++, C, C#, Java                             |
-| **Build & Tools**  | CMake, Git, VS, VS Code, XCode, .NET, Azure  |
-| **Devices**        | Windows, macOS, Nix, Arduino                 |
-| **Design**         | Illustrator, Photoshop                       |
+<div align="center">
 
----
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sharzhukov&bg_color=0d1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&hide_border=true" />
 
-### 📌 Featured Projects
-
-- **CoLand** — colony survival simulator in C++ with GUI Framework
-- **Sharzhukov Laboratory** — platform for software development and deployment
-- *More coming soon…*
+</div>
 
 ---
 
-### 📫 My contact
+### 🐍 Contribution Snake
 
-- **Website:** [sharzhukov.ru](https://sharzhukov.ru)
-- **GitHub:** [github.com/Sharzhukov](https://github.com/Sharzhukov)
-- **Telegram:** [@sharzhukov](https://t.me/sharzhukov)
+<div align="center">
 
-## product contact
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sharzhukov/Sharzhukov/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sharzhukov/Sharzhukov/output/github-contribution-grid-snake.svg" />
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/Sharzhukov/Sharzhukov/output/github-contribution-grid-snake.svg" />
+</picture>
 
-- **GitHub:** [github.com/SharzhukovLab](https://github.com/SharzhukovLab)
-- **Telegram:** [@sharzhukovLab](https://t.me/sharzhukovLab)
-
----
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sharzhukov/Sharzhukov/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sharzhukov/Sharzhukov/output/github-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/Sharzhukov/Sharzhukov/output/github-snake.svg" />
-  </picture>
-</p>
+</div>
 
 ---
 
-> *“Code is the closest thing we have to magic that actually works.”*
+### ⏱️ Coding Activity (WakaTime)
+
+<!-- START_SECTION:waka -->
+<!-- END_SECTION:waka -->
+
+---
+
+### 🚀 Featured Projects
+
+| Project | Description | Tech |
+|---------|-------------|------|
+| [**CoLand**](https://github.com/Sharzhukov/CoLand) | Turn-based colony survival simulator with strategy & RPG elements | `C++` `GUI` |
+| [**Sharzhukov Laboratory**](https://github.com/Sharzhukov) | Web platform & software development hub | `Web` `API` `Security` |
+
+---
+
+### 📫 Connect
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sharzhukov)
+
+</div>
+
+---
+
+<div align="center">
+
+> *«Code is the closest thing we have to magic that actually works.»*
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=80&section=footer)
+
+</div>
