@@ -34,19 +34,40 @@ My major project — **Sharzhukov Laboratory** — is a web-based platform and s
 
 <div align="center">
 
-<b>Languages</b> &nbsp;&nbsp; <img src="https://skillicons.dev/icons?i=cpp,cs,c,php,java" height="40" alt="Languages" />
+**Languages**
+
+![C++](https://img.shields.io/badge/C%2B%2B-FF5C1F?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-FF5C1F?style=for-the-badge&logo=csharp&logoColor=white)
+![C](https://img.shields.io/badge/C-FF5C1F?style=for-the-badge&logo=c&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-FF5C1F?style=for-the-badge&logo=php&logoColor=white)
+![Java](https://img.shields.io/badge/Java-FF5C1F?style=for-the-badge&logo=openjdk&logoColor=white)
 
 <br/><br/>
 
-<b>Build & Tools</b> &nbsp;&nbsp; <img src="https://skillicons.dev/icons?i=git,cmake,dotnet,azure,vscode,visualstudio" height="40" alt="Build & Tools" />
+**Build & Tools**
+
+![CMake](https://img.shields.io/badge/CMake-FF5C1F?style=for-the-badge&logo=cmake&logoColor=white)
+![Git](https://img.shields.io/badge/Git-FF5C1F?style=for-the-badge&logo=git&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-FF5C1F?style=for-the-badge&logo=dotnet&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-FF5C1F?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-FF5C1F?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-FF5C1F?style=for-the-badge&logo=visualstudio&logoColor=white)
 
 <br/><br/>
 
-<b>Platforms</b> &nbsp;&nbsp; <img src="https://skillicons.dev/icons?i=arduino,windows,apple,nix" height="40" alt="Platforms" />
+**Platforms**
+
+![Windows](https://img.shields.io/badge/Windows-FF5C1F?style=for-the-badge&logo=windows&logoColor=white)
+![macOS](https://img.shields.io/badge/macOS-FF5C1F?style=for-the-badge&logo=apple&logoColor=white)
+![Nix](https://img.shields.io/badge/Nix-FF5C1F?style=for-the-badge&logo=nixos&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-FF5C1F?style=for-the-badge&logo=arduino&logoColor=white)
 
 <br/><br/>
 
-<b>Design</b> &nbsp;&nbsp; <img src="https://skillicons.dev/icons?i=ai,ps" height="40" alt="Design" />
+**Design**
+
+![Illustrator](https://img.shields.io/badge/Illustrator-FF5C1F?style=for-the-badge&logo=adobeillustrator&logoColor=white)
+![Photoshop](https://img.shields.io/badge/Photoshop-FF5C1F?style=for-the-badge&logo=adobephotoshop&logoColor=white)
 
 </div>
 
