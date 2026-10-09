@@ -34,40 +34,40 @@ My major project — **Sharzhukov Laboratory** — is a web-based platform and s
 
 <table border="0" width="100%">
 <tr>
-<td valign="top" width="20%"><b>Languages</b></td>
-<td valign="top">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="22" /> <code>C++</code> &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="22" /> <code>C#</code> &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="22" /> <code>C</code> &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="22" /> <code>PHP</code> &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="22" /> <code>Java</code>
+<td valign="middle" width="140"><b>Languages</b></td>
+<td valign="middle">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="20" align="middle" /> <code>C++</code> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="20" align="middle" /> <code>C#</code> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="20" align="middle" /> <code>C</code> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="20" align="middle" /> <code>PHP</code> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="20" align="middle" /> <code>Java</code>
 </td>
 </tr>
 <tr>
-<td valign="top"><b>Build & Tools</b></td>
-<td valign="top">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cmake/cmake-original.svg" height="22" /> <code>CMake</code> &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="22" /> <code>Git</code> &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="22" /> <code>.NET</code> &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="22" /> <code>Azure</code> &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="22" /> <code>VS Code</code> &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-original.svg" height="22" /> <code>Visual Studio</code>
+<td valign="middle"><b>Build & Tools</b></td>
+<td valign="middle">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cmake/cmake-original.svg" height="20" align="middle" /> <code>CMake</code> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="20" align="middle" /> <code>Git</code> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="20" align="middle" /> <code>.NET</code> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="20" align="middle" /> <code>Azure</code> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="20" align="middle" /> <code>VS Code</code> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-original.svg" height="20" align="middle" /> <code>Visual Studio</code>
 </td>
 </tr>
 <tr>
-<td valign="top"><b>Platforms</b></td>
-<td valign="top">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="22" /> <code>Windows</code> &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" height="22" /> <code>macOS</code> &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nixos/nixos-original.svg" height="22" /> <code>Nix</code> &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="22" /> <code>Arduino</code>
+<td valign="middle"><b>Platforms</b></td>
+<td valign="middle">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="20" align="middle" /> <code>Windows</code> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" height="20" align="middle" /> <code>macOS</code> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nixos/nixos-original.svg" height="20" align="middle" /> <code>Nix</code> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="20" align="middle" /> <code>Arduino</code>
 </td>
 </tr>
 <tr>
-<td valign="top"><b>Design</b></td>
-<td valign="top">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-original.svg" height="22" /> <code>Illustrator</code> &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-original.svg" height="22" /> <code>Photoshop</code>
+<td valign="middle"><b>Design</b></td>
+<td valign="middle">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-original.svg" height="20" align="middle" /> <code>Illustrator</code> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-original.svg" height="20" align="middle" /> <code>Photoshop</code>
 </td>
 </tr>
 </table>
