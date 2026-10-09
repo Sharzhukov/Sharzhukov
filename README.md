@@ -34,49 +34,39 @@ My major project — **Sharzhukov Laboratory** — is a web-based platform and s
 
 ### 🛠 Tech Stack
 
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
+<div align="center">
 
 **Languages**
-
+<br/>
 <img src="https://skillicons.dev/icons?i=cpp,cs,c,php,java" height="44" alt="Languages" />
+<br/>
+<sub>C++ · C# · C · PHP · Java</sub>
 
-`C++` · `C#` · `C` · `PHP` · `Java`
-
-</td>
-<td width="50%" valign="top">
+<br/><br/>
 
 **Build & Tools**
-
+<br/>
 <img src="https://skillicons.dev/icons?i=git,cmake,dotnet,azure,vscode,visualstudio" height="44" alt="Tools" />
+<br/>
+<sub>CMake · Git · .NET · Azure · VS Code · VS</sub>
 
-`CMake` · `Git` · `.NET` · `Azure` · `VS Code` · `VS`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+<br/><br/>
 
 **Platforms**
-
+<br/>
 <img src="https://skillicons.dev/icons?i=arduino,windows,apple,nix" height="44" alt="Platforms" />
+<br/>
+<sub>Windows · macOS · Nix · Arduino</sub>
 
-`Windows` · `macOS` · `Nix` · `Arduino`
-
-</td>
-<td width="50%" valign="top">
+<br/><br/>
 
 **Design**
-
+<br/>
 <img src="https://skillicons.dev/icons?i=ai,ps" height="44" alt="Design" />
+<br/>
+<sub>Illustrator · Photoshop</sub>
 
-`Illustrator` · `Photoshop`
-
-</td>
-</tr>
-</table>
-
+</div>
 ---
 
 ### 📊 Activity
@@ -84,15 +74,15 @@ My major project — **Sharzhukov Laboratory** — is a web-based platform and s
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Sharzhukov&show_icons=true&rank_icon=github&hide=issues,prs,contribs&include_all_commits=true&count_private=true&custom_title=Activity&hide_border=true&bg_color=00000000&title_color=FF5C1F&icon_color=FF5C1F&text_color=c9d1d9&border_radius=12&cache_seconds=1800" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Sharzhukov&show_icons=true&rank_icon=github&hide=issues,prs,contribs&include_all_commits=true&count_private=true&custom_title=Activity&hide_border=true&bg_color=00000000&title_color=FF5C1F&icon_color=FF5C1F&text_color=24292f&border_radius=12&cache_seconds=1800" />
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Sharzhukov&show_icons=true&rank_icon=github&hide=issues,prs,contribs&include_all_commits=true&count_private=true&custom_title=Activity&hide_border=true&bg_color=00000000&title_color=FF5C1F&icon_color=FF5C1F&text_color=24292f&border_radius=12&cache_seconds=1800" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Sharzhukov&show_icons=true&rank_icon=github&hide=issues,prs,contribs&include_all_commits=true&count_private=true&custom_title=Activity&hide_border=true&bg_color=0d1117&title_color=FF5C1F&icon_color=FF5C1F&text_color=c9d1d9&border_radius=12&cache_seconds=1800" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Sharzhukov&show_icons=true&rank_icon=github&hide=issues,prs,contribs&include_all_commits=true&count_private=true&custom_title=Activity&hide_border=true&bg_color=ffffff&title_color=FF5C1F&icon_color=FF5C1F&text_color=24292f&border_radius=12&cache_seconds=1800" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Sharzhukov&show_icons=true&rank_icon=github&hide=issues,prs,contribs&include_all_commits=true&count_private=true&custom_title=Activity&hide_border=true&bg_color=0d1117&title_color=FF5C1F&icon_color=FF5C1F&text_color=c9d1d9&border_radius=12&cache_seconds=1800" />
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Sharzhukov&layout=compact&hide_border=true&bg_color=00000000&title_color=FF5C1F&text_color=c9d1d9&border_radius=12&langs_count=6&cache_seconds=1800" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Sharzhukov&layout=compact&hide_border=true&bg_color=00000000&title_color=FF5C1F&text_color=24292f&border_radius=12&langs_count=6&cache_seconds=1800" />
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sharzhukov&layout=compact&hide_border=true&bg_color=00000000&title_color=FF5C1F&text_color=24292f&border_radius=12&langs_count=6&cache_seconds=1800" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Sharzhukov&layout=compact&hide_border=true&bg_color=0d1117&title_color=FF5C1F&text_color=c9d1d9&border_radius=12&langs_count=6&cache_seconds=1800" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Sharzhukov&layout=compact&hide_border=true&bg_color=ffffff&title_color=FF5C1F&text_color=24292f&border_radius=12&langs_count=6&cache_seconds=1800" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sharzhukov&layout=compact&hide_border=true&bg_color=0d1117&title_color=FF5C1F&text_color=c9d1d9&border_radius=12&langs_count=6&cache_seconds=1800" />
 </picture>
 
 </div>
