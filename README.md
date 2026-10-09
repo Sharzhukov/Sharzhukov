@@ -106,16 +106,16 @@ My major project — **Sharzhukov Laboratory** — is a web-based platform and s
 
 **🔐 MetaMesh**
 
-Программа шифрования информации для её передачи. Своя, сильно упрощённая криптография — по духу ближе к минималистичному мессенджеру.
+A lightweight encryption tool designed for secure information transmission. Implements a proprietary, simplified cryptographic scheme — functionally comparable to a minimal messenger.
 
-`C++` `Crypto` `Network`
+`C++` `Cryptography` `Networking`
 
 </td>
 <td width="50%" valign="top">
 
 **🧮 Tessera**
 
-Кроссплатформенный парсер, вычислитель и визуализатор математических выражений на C++17. Собственный парсер, AST и вычислитель — без сторонних библиотек.
+A cross-platform parser, evaluator, and visualizer for mathematical expressions built on C++17. Features a hand-written parser, AST, and evaluator with no third-party dependencies.
 
 `C++17` `CMake` `Catch2` `CI`
 
@@ -126,16 +126,16 @@ My major project — **Sharzhukov Laboratory** — is a web-based platform and s
 
 **🎮 WithLand**
 
-Пошаговый симулятор выживания колонии с элементами стратегии и RPG.
+A turn-based colony survival simulator combining strategic resource management with role-playing progression systems.
 
-`C++` `GUI` `Game`
+`C++` `GUI` `Game Development`
 
 </td>
 <td width="50%" valign="top">
 
 **🧪 Sharzhukov Laboratory**
 
-Платформа для разработки и развёртывания программного обеспечения.
+A web-based platform for software development, deployment, and lifecycle management.
 
 `Web` `API` `Security`
 
@@ -143,7 +143,7 @@ My major project — **Sharzhukov Laboratory** — is a web-based platform and s
 </tr>
 </table>
 
-> *More coming soon…*
+> *More projects coming soon…*
 
 ---
 
