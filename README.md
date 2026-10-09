@@ -1,6 +1,10 @@
 <h1 align="center">🐼 Sharzhukov · Software Developer</h1>
 
-###
+<div align="center">
+  <a href="https://github.com/Sharzhukov">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2500&pause=1200&color=FF5C1F&center=true&vCenter=true&width=560&lines=Information+Security;Software+Development;Game+%26+Web+Development;API+Design+%26+Cryptography" alt="Typing SVG" />
+  </a>
+</div>
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=cpp" height="60" alt="C++" />
@@ -44,7 +48,7 @@
   <img src="https://skillicons.dev/icons?i=nix" height="60" alt="Nix" />
 </div>
 
-###
+---
 
 ## 👋 Hello World.
 
@@ -58,12 +62,21 @@ Currently working at **Yandex**.
 
 ### 🔧 Technologies & Tools
 
-|        Area        |                     Tech                     |
-|-------------|-----------------------------------------------------|
-| **Languages**      | C++, C, C#, Java                             |
-| **Build & Tools**  | CMake, Git, VS, VS Code, XCode, .NET, Azure  |
-| **Devices**        | Windows, macOS, Nix, Arduino                 |
-| **Design**         | Illustrator, Photoshop                       |
+| Area | Tech |
+|------|------|
+| **Languages** | C++, C, C#, Java |
+| **Build & Tools** | CMake, Git, VS, VS Code, XCode, .NET, Azure |
+| **Devices** | Windows, macOS, Nix, Arduino |
+| **Design** | Illustrator, Photoshop |
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Sharzhukov&show_icons=true&hide_border=true&bg_color=0d1117&title_color=FF5C1F&icon_color=FF5C1F&text_color=c9d1d9&border_radius=12&cache_seconds=3600" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sharzhukov&layout=compact&hide_border=true&bg_color=0d1117&title_color=FF5C1F&text_color=c9d1d9&border_radius=12&langs_count=6&cache_seconds=3600" />
+</div>
 
 ---
 
@@ -75,13 +88,13 @@ Currently working at **Yandex**.
 
 ---
 
-### 📫 My contact
+### 📫 Contact
 
 - **Website:** [sharzhukov.ru](https://sharzhukov.ru)
 - **GitHub:** [github.com/Sharzhukov](https://github.com/Sharzhukov)
 - **Telegram:** [@sharzhukov](https://t.me/sharzhukov)
 
-## product contact
+**Product contact**
 
 - **GitHub:** [github.com/SharzhukovLab](https://github.com/SharzhukovLab)
 - **Telegram:** [@sharzhukovLab](https://t.me/sharzhukovLab)
@@ -98,4 +111,4 @@ Currently working at **Yandex**.
 
 ---
 
-> *“Code is the closest thing we have to magic that actually works.”*
+<p align="center"><em>“Code is the closest thing we have to magic that actually works.”</em></p>
