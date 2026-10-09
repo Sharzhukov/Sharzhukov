@@ -32,22 +32,21 @@ My major project — **Sharzhukov Laboratory** — is a web-based platform and s
 
 ### 🛠 Tech Stack
 
-| Area | Stack |
-|------|-------|
-| **Languages** | C++ · C# · C · PHP · Java |
-| **Build & Tools** | CMake · Git · .NET · Azure · VS Code · VS |
-| **Platforms** | Windows · macOS · Nix · Arduino |
-| **Design** | Illustrator · Photoshop |
-
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=cpp,cs,c,php,java" height="44" alt="Languages" />
-<img width="24" />
-<img src="https://skillicons.dev/icons?i=git,cmake,dotnet,azure,vscode,visualstudio" height="44" alt="Tools" />
-<img width="24" />
-<img src="https://skillicons.dev/icons?i=arduino,windows,apple,nix" height="44" alt="Platforms" />
-<img width="24" />
-<img src="https://skillicons.dev/icons?i=ai,ps" height="44" alt="Design" />
+<b>Languages</b> &nbsp;&nbsp; <img src="https://skillicons.dev/icons?i=cpp,cs,c,php,java" height="40" alt="Languages" />
+
+<br/><br/>
+
+<b>Build & Tools</b> &nbsp;&nbsp; <img src="https://skillicons.dev/icons?i=git,cmake,dotnet,azure,vscode,visualstudio" height="40" alt="Build & Tools" />
+
+<br/><br/>
+
+<b>Platforms</b> &nbsp;&nbsp; <img src="https://skillicons.dev/icons?i=arduino,windows,apple,nix" height="40" alt="Platforms" />
+
+<br/><br/>
+
+<b>Design</b> &nbsp;&nbsp; <img src="https://skillicons.dev/icons?i=ai,ps" height="40" alt="Design" />
 
 </div>
 
