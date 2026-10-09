@@ -1,11 +1,12 @@
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!--  SHARZHUKOV · PROFILE README                                    -->
 <!--  Accent: #FF5C1F · Radius: 12px · Light + Dark theme aware      -->
+<!--  Adaptive: width="100%" · percentage tables · responsive blocks -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=FF5C1F&height=140&section=header&text=Sharzhukov&fontColor=ffffff&fontSize=42&fontAlignY=40&desc=Software%20Developer%20%C2%B7%20Information%20Security&descAlignY=60&descSize=14&animation=fadeIn" width="100%" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=FF5C1F&height=140&section=header&text=Sharzhukov&fontColor=ffffff&fontSize=42&fontAlignY=40&desc=Software%20Developer%20%C2%B7%20Information%20Security&descAlignY=62&descSize=14&animation=fadeIn" width="100%" alt="header" />
 
 <a href="https://github.com/Sharzhukov">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2600&pause=1000&color=FF5C1F&center=true&vCenter=true&width=620&lines=Information+Security;Software+Development;Game+%26+Web+Development;API+Design+%26+Cryptography" alt="Typing SVG" />
@@ -33,13 +34,13 @@ My major project — **Sharzhukov Laboratory** — is a web-based platform and s
 
 ### 🛠 Tech Stack
 
-<table>
+<table width="100%">
 <tr>
 <td width="50%" valign="top">
 
 **Languages**
 
-<img src="https://skillicons.dev/icons?i=cpp,cs,c,php,java" height="48" alt="Languages" />
+<img src="https://skillicons.dev/icons?i=cpp,cs,c,php,java" height="44" alt="Languages" />
 
 `C++` · `C#` · `C` · `PHP` · `Java`
 
@@ -48,7 +49,7 @@ My major project — **Sharzhukov Laboratory** — is a web-based platform and s
 
 **Build & Tools**
 
-<img src="https://skillicons.dev/icons?i=git,cmake,dotnet,azure,vscode,visualstudio" height="48" alt="Tools" />
+<img src="https://skillicons.dev/icons?i=git,cmake,dotnet,azure,vscode,visualstudio" height="44" alt="Tools" />
 
 `CMake` · `Git` · `.NET` · `Azure` · `VS Code` · `VS`
 
@@ -59,7 +60,7 @@ My major project — **Sharzhukov Laboratory** — is a web-based platform and s
 
 **Platforms**
 
-<img src="https://skillicons.dev/icons?i=arduino,windows,apple,nix" height="48" alt="Platforms" />
+<img src="https://skillicons.dev/icons?i=arduino,windows,apple,nix" height="44" alt="Platforms" />
 
 `Windows` · `macOS` · `Nix` · `Arduino`
 
@@ -68,7 +69,7 @@ My major project — **Sharzhukov Laboratory** — is a web-based platform and s
 
 **Design**
 
-<img src="https://skillicons.dev/icons?i=ai,ps" height="48" alt="Design" />
+<img src="https://skillicons.dev/icons?i=ai,ps" height="44" alt="Design" />
 
 `Illustrator` · `Photoshop`
 
@@ -100,7 +101,7 @@ My major project — **Sharzhukov Laboratory** — is a web-based platform and s
 
 ### 📌 Featured Projects
 
-<table>
+<table width="100%">
 <tr>
 <td width="50%" valign="top">
 
@@ -175,7 +176,7 @@ A web-based platform for software development, deployment, and lifecycle managem
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sharzhukov/Sharzhukov/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sharzhukov/Sharzhukov/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/Sharzhukov/Sharzhukov/output/github-snake.svg" />
+  <img width="100%" alt="github-snake" src="https://raw.githubusercontent.com/Sharzhukov/Sharzhukov/output/github-snake.svg" />
 </picture>
 
 </div>
