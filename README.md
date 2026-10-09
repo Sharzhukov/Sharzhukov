@@ -32,44 +32,45 @@ My major project — **Sharzhukov Laboratory** — is a web-based platform and s
 
 ### 🛠 Tech Stack
 
-<div align="center">
-
-**Languages**
-
-![C++](https://img.shields.io/badge/C%2B%2B-FF5C1F?style=for-the-badge&logo=cplusplus&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-FF5C1F?style=for-the-badge&logo=csharp&logoColor=white)
-![C](https://img.shields.io/badge/C-FF5C1F?style=for-the-badge&logo=c&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-FF5C1F?style=for-the-badge&logo=php&logoColor=white)
-![Java](https://img.shields.io/badge/Java-FF5C1F?style=for-the-badge&logo=openjdk&logoColor=white)
-
-<br/><br/>
-
-**Build & Tools**
-
-![CMake](https://img.shields.io/badge/CMake-FF5C1F?style=for-the-badge&logo=cmake&logoColor=white)
-![Git](https://img.shields.io/badge/Git-FF5C1F?style=for-the-badge&logo=git&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-FF5C1F?style=for-the-badge&logo=dotnet&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-FF5C1F?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-FF5C1F?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-FF5C1F?style=for-the-badge&logo=visualstudio&logoColor=white)
-
-<br/><br/>
-
-**Platforms**
-
-![Windows](https://img.shields.io/badge/Windows-FF5C1F?style=for-the-badge&logo=windows&logoColor=white)
-![macOS](https://img.shields.io/badge/macOS-FF5C1F?style=for-the-badge&logo=apple&logoColor=white)
-![Nix](https://img.shields.io/badge/Nix-FF5C1F?style=for-the-badge&logo=nixos&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-FF5C1F?style=for-the-badge&logo=arduino&logoColor=white)
-
-<br/><br/>
-
-**Design**
-
-![Illustrator](https://img.shields.io/badge/Illustrator-FF5C1F?style=for-the-badge&logo=adobeillustrator&logoColor=white)
-![Photoshop](https://img.shields.io/badge/Photoshop-FF5C1F?style=for-the-badge&logo=adobephotoshop&logoColor=white)
-
-</div>
+<table border="0" width="100%">
+<tr>
+<td valign="top" width="20%"><b>Languages</b></td>
+<td valign="top">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="22" /> C++ &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="22" /> C# &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="22" /> C &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="22" /> PHP &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="22" /> Java
+</td>
+</tr>
+<tr>
+<td valign="top"><b>Build & Tools</b></td>
+<td valign="top">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cmake/cmake-original.svg" height="22" /> CMake &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="22" /> Git &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="22" /> .NET &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="22" /> Azure &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="22" /> VS Code &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-original.svg" height="22" /> Visual Studio
+</td>
+</tr>
+<tr>
+<td valign="top"><b>Platforms</b></td>
+<td valign="top">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="22" /> Windows &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" height="22" /> macOS &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nixos/nixos-original.svg" height="22" /> Nix &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="22" /> Arduino
+</td>
+</tr>
+<tr>
+<td valign="top"><b>Design</b></td>
+<td valign="top">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-line.svg" height="22" /> Illustrator &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg" height="22" /> Photoshop
+</td>
+</tr>
+</table>
 
 ---
 
