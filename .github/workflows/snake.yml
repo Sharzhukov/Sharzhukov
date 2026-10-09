@@ -1,11 +1,14 @@
+# ═══════════════════════════════════════════════════════════════
+#  SHARZHUKOV · SNAKE ANIMATION
+#  Генерирует две версии змейки — для светлой и тёмной темы
+# ═══════════════════════════════════════════════════════════════
+
 name: Generate snake animation
 
 on:
   schedule:
     - cron: "0 */12 * * *"
-
   workflow_dispatch:
-
   push:
     branches:
       - main
@@ -19,16 +22,18 @@ jobs:
       contents: write
 
     steps:
+      # ─── 1. Генерация SVG ──────────────────────────────────────
       - name: Generate snake SVGs
         uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/github-snake.svg
+            dist/github-snake.svg?color_snake=FF5C1F&color_dots=#ebedf0,#ffd6bf,#ffab7f,#ff8350,#FF5C1F
             dist/github-snake-dark.svg?color_snake=FF5C1F&color_dots=#1c1c1c,#5a2a12,#a13c15,#d14a1a,#FF5C1F
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
+      # ─── 2. Публикация в ветку output ──────────────────────────
       - name: Push generated files to "output" branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
