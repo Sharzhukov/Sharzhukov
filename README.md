@@ -150,22 +150,31 @@ A web-based platform for software development, deployment, and lifecycle managem
 
 ### 📫 Contact
 
-<div align="center">
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
 
 **Personal**
 
-[![Website](https://img.shields.io/badge/sharzhukov.com-FF5C1F?style=flat-square&logo=googlechrome&logoColor=white)](https://sharzhukov.com)
-[![GitHub](https://img.shields.io/badge/Sharzhukov-FF5C1F?style=flat-square&logo=github&logoColor=white)](https://github.com/Sharzhukov)
-[![Telegram](https://img.shields.io/badge/@sharzhukov-FF5C1F?style=flat-square&logo=telegram&logoColor=white)](https://t.me/sharzhukov)
+| | |
+|---|---|
+| 🌐 | [sharzhukov.com](https://sharzhukov.com) |
+| 🐙 | [github.com/Sharzhukov](https://github.com/Sharzhukov) |
+| ✈️ | [@sharzhukov](https://t.me/sharzhukov) |
 
-<br/>
+</td>
+<td width="50%" valign="top">
 
 **Product**
 
-[![GitHub](https://img.shields.io/badge/SharzhukovLab-FF5C1F?style=flat-square&logo=github&logoColor=white)](https://github.com/SharzhukovLab)
-[![Telegram](https://img.shields.io/badge/@sharzhukovLab-FF5C1F?style=flat-square&logo=telegram&logoColor=white)](https://t.me/sharzhukovLab)
+| | |
+|---|---|
+| 🐙 | [github.com/SharzhukovLab](https://github.com/SharzhukovLab) |
+| ✈️ | [@sharzhukovLab](https://t.me/sharzhukovLab) |
 
-</div>
+</td>
+</tr>
+</table>
 
 ---
 
