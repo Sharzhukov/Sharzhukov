@@ -1,53 +1,101 @@
+<h1 align="center">🐼 Sharzhukov · Software Developer</h1>
+
+###
+
 <div align="center">
-
-<a href="https://github.com/Sharzhukov">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2500&pause=1200&color=FF5C1F&center=true&vCenter=true&width=500&lines=Software+Developer;Information+Security;Game+%26+Web+Development;Cryptography+Enthusiast" alt="Typing SVG" />
-</a>
-
-<br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=Sharzhukov&label=PROFILE+VIEWS&color=FF5C1F&style=flat-square)
-![Followers](https://img.shields.io/github/followers/Sharzhukov?label=FOLLOWERS&style=flat-square&color=FF5C1F&logoColor=white)
-![Stars](https://img.shields.io/github/stars/Sharzhukov?label=STARS&style=flat-square&color=FF5C1F&logoColor=white)
-
+  <img src="https://skillicons.dev/icons?i=cpp" height="60" alt="C++" />
+  <img width="48" />
+  <img src="https://skillicons.dev/icons?i=cs" height="60" alt="C#" />
+  <img width="48" />
+  <img src="https://skillicons.dev/icons?i=c" height="60" alt="C" />
+  <img width="48" />
+  <img src="https://skillicons.dev/icons?i=php" height="60" alt="PHP" />
+  <img width="48" />
+  <img src="https://skillicons.dev/icons?i=java" height="60" alt="Java" />
+  <img width="48" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="60" alt="MySQL" />
 </div>
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=git" height="60" alt="Git" />
+  <img width="48" />
+  <img src="https://skillicons.dev/icons?i=cmake" height="60" alt="CMake" />
+  <img width="48" />
+  <img src="https://skillicons.dev/icons?i=dotnet" height="60" alt=".NET" />
+  <img width="48" />
+  <img src="https://skillicons.dev/icons?i=azure" height="60" alt="Azure" />
+  <img width="48" />
+  <img src="https://skillicons.dev/icons?i=vscode" height="60" alt="VS Code" />
+  <img width="48" />
+  <img src="https://skillicons.dev/icons?i=visualstudio" height="60" alt="Visual Studio" />
+</div>
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=arduino" height="60" alt="Arduino" />
+  <img width="48" />
+  <img src="https://skillicons.dev/icons?i=ai" height="60" alt="Illustrator" />
+  <img width="48" />
+  <img src="https://skillicons.dev/icons?i=ps" height="60" alt="Photoshop" />
+  <img width="48" />
+  <img src="https://skillicons.dev/icons?i=windows" height="60" alt="Windows" />
+  <img width="48" />
+  <img src="https://skillicons.dev/icons?i=apple" height="60" alt="macOS" />
+  <img width="48" />
+  <img src="https://skillicons.dev/icons?i=nix" height="60" alt="Nix" />
+</div>
+
+###
+
+## 👋 Hello World.
+
+I engaged in information security. I have experience in **software development**, **video games**, **web development** and **API design**, as well as experience in cryptography.
+
+My major project — **Sharzhukov Laboratory** — is a web-based platform and a software development hub. The goal is to build modern, secure, and reliable software using advanced technologies.
+
+Currently working at **Yandex**.
 
 ---
 
-### 👤 About Me
+### 🔧 Technologies & Tools
 
-```yaml
-name: Sharzhukov
-role: Software Developer @ Yandex
-focus: Information Security · Game Dev · Web & API Design · Cryptography
-mission: "Code is the closest thing we have to magic that actually works."
-```
-
-> I build modern, secure, and reliable software. My major project — **Sharzhukov Laboratory** — is a web-based platform and software development hub. I also work on **CoLand**, a colony survival simulator in C++.
+|        Area        |                     Tech                     |
+|-------------|-----------------------------------------------------|
+| **Languages**      | C++, C, C#, Java                             |
+| **Build & Tools**  | CMake, Git, VS, VS Code, XCode, .NET, Azure  |
+| **Devices**        | Windows, macOS, Nix, Arduino                 |
+| **Design**         | Illustrator, Photoshop                       |
 
 ---
 
-### 🛠️ Tech Stack
+### 📌 Featured Projects
 
-<div align="center">
+- **CoLand** — colony survival simulator in C++ with GUI Framework
+- **Sharzhukov Laboratory** — platform for software development and deployment
+- *More coming soon…*
 
-**Languages**
+---
 
-![C++](https://img.shields.io/badge/C%2B%2B-FF5C1F?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C](https://img.shields.io/badge/C-FF5C1F?style=for-the-badge&logo=c&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-FF5C1F?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Java](https://img.shields.io/badge/Java-FF5C1F?style=for-the-badge&logo=openjdk&logoColor=white)
+### 📫 My contact
 
-**Build & Tools**
+- **Website:** [sharzhukov.ru](https://sharzhukov.ru)
+- **GitHub:** [github.com/Sharzhukov](https://github.com/Sharzhukov)
+- **Telegram:** [@sharzhukov](https://t.me/sharzhukov)
 
-![CMake](https://img.shields.io/badge/CMake-FF5C1F?style=for-the-badge&logo=cmake&logoColor=white)
-![Git](https://img.shields.io/badge/Git-FF5C1F?style=for-the-badge&logo=git&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-FF5C1F?style=for-the-badge&logo=dotnet&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-FF5C1F?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+## product contact
 
-**Design**
+- **GitHub:** [github.com/SharzhukovLab](https://github.com/SharzhukovLab)
+- **Telegram:** [@sharzhukovLab](https://t.me/sharzhukovLab)
 
-![Photoshop](https://img.shields.io/badge/Photoshop-FF5C1F?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
-![Illustrator](https://img.shields.io/badge/Illustrator-FF5C1F?style=for-the-badge&logo=adobe-illustrator&logoColor=white)
+---
 
-</div>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sharzhukov/Sharzhukov/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sharzhukov/Sharzhukov/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/Sharzhukov/Sharzhukov/output/github-snake.svg" />
+  </picture>
+</p>
+
+---
+
+> *“Code is the closest thing we have to magic that actually works.”*
