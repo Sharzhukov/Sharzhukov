@@ -33,22 +33,48 @@ My major project — **Sharzhukov Laboratory** — is a web-based platform and s
 
 ### 🛠 Tech Stack
 
-<div align="center">
+<table>
+<tr>
+<td width="50%" valign="top">
 
-<img src="https://skillicons.dev/icons?i=cpp,cs,c,php,java,mysql" height="56" alt="Languages" />
-<br/>
-<img src="https://skillicons.dev/icons?i=git,cmake,dotnet,azure,vscode,visualstudio" height="56" alt="Tools" />
-<br/>
-<img src="https://skillicons.dev/icons?i=arduino,ai,ps,windows,apple,nix" height="56" alt="Platforms & Design" />
+**Languages**
 
-</div>
+<img src="https://skillicons.dev/icons?i=cpp,cs,c,php,java" height="48" alt="Languages" />
 
-| Area | Stack |
-|------|-------|
-| **Languages** | C++ · C · C# · Java |
-| **Build & Tools** | CMake · Git · VS · VS Code · XCode · .NET · Azure |
-| **Platforms** | Windows · macOS · Nix · Arduino |
-| **Design** | Illustrator · Photoshop |
+`C++` · `C#` · `C` · `PHP` · `Java`
+
+</td>
+<td width="50%" valign="top">
+
+**Build & Tools**
+
+<img src="https://skillicons.dev/icons?i=git,cmake,dotnet,azure,vscode,visualstudio" height="48" alt="Tools" />
+
+`CMake` · `Git` · `.NET` · `Azure` · `VS Code` · `VS`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**Platforms**
+
+<img src="https://skillicons.dev/icons?i=arduino,windows,apple,nix" height="48" alt="Platforms" />
+
+`Windows` · `macOS` · `Nix` · `Arduino`
+
+</td>
+<td width="50%" valign="top">
+
+**Design**
+
+<img src="https://skillicons.dev/icons?i=ai,ps" height="48" alt="Design" />
+
+`Illustrator` · `Photoshop`
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -68,14 +94,6 @@ My major project — **Sharzhukov Laboratory** — is a web-based platform and s
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sharzhukov&layout=compact&hide_border=true&bg_color=00000000&title_color=FF5C1F&text_color=24292f&border_radius=12&langs_count=6&cache_seconds=1800" />
 </picture>
 
-<br/><br/>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Sharzhukov&hide_border=true&background=00000000&ring=FF5C1F&fire=FF5C1F&currStreakLabel=FF5C1F&currStreakNum=c9d1d9&sideNums=c9d1d9&sideLabels=c9d1d9&dates=8b949e&border_radius=12" />
-  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=Sharzhukov&hide_border=true&background=00000000&ring=FF5C1F&fire=FF5C1F&currStreakLabel=FF5C1F&currStreakNum=24292f&sideNums=24292f&sideLabels=24292f&dates=57606a&border_radius=12" />
-  <img src="https://streak-stats.demolab.com?user=Sharzhukov&hide_border=true&background=00000000&ring=FF5C1F&fire=FF5C1F&currStreakLabel=FF5C1F&currStreakNum=24292f&sideNums=24292f&sideLabels=24292f&dates=57606a&border_radius=12" />
-</picture>
-
 </div>
 
 ---
@@ -86,9 +104,29 @@ My major project — **Sharzhukov Laboratory** — is a web-based platform and s
 <tr>
 <td width="50%" valign="top">
 
-**🎮 CoLand**
+**🔐 MetaMesh**
 
-Colony survival simulator in C++ with a custom GUI framework.
+Программа шифрования информации для её передачи. Своя, сильно упрощённая криптография — по духу ближе к минималистичному мессенджеру.
+
+`C++` `Crypto` `Network`
+
+</td>
+<td width="50%" valign="top">
+
+**🧮 Tessera**
+
+Кроссплатформенный парсер, вычислитель и визуализатор математических выражений на C++17. Собственный парсер, AST и вычислитель — без сторонних библиотек.
+
+`C++17` `CMake` `Catch2` `CI`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**🎮 WithLand**
+
+Пошаговый симулятор выживания колонии с элементами стратегии и RPG.
 
 `C++` `GUI` `Game`
 
@@ -97,7 +135,7 @@ Colony survival simulator in C++ with a custom GUI framework.
 
 **🧪 Sharzhukov Laboratory**
 
-Platform for software development and deployment.
+Платформа для разработки и развёртывания программного обеспечения.
 
 `Web` `API` `Security`
 
@@ -113,16 +151,18 @@ Platform for software development and deployment.
 
 <div align="center">
 
-[![Website](https://img.shields.io/badge/sharzhukov.com-FF5C1F?style=for-the-badge&logo=googlechrome&logoColor=white)](https://sharzhukov.com)
-[![GitHub](https://img.shields.io/badge/Sharzhukov-FF5C1F?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sharzhukov)
-[![Telegram](https://img.shields.io/badge/@sharzhukov-FF5C1F?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/sharzhukov)
+**Personal**
+
+[![Website](https://img.shields.io/badge/sharzhukov.com-FF5C1F?style=flat-square&logo=googlechrome&logoColor=white)](https://sharzhukov.com)
+[![GitHub](https://img.shields.io/badge/Sharzhukov-FF5C1F?style=flat-square&logo=github&logoColor=white)](https://github.com/Sharzhukov)
+[![Telegram](https://img.shields.io/badge/@sharzhukov-FF5C1F?style=flat-square&logo=telegram&logoColor=white)](https://t.me/sharzhukov)
 
 <br/>
 
-**Product contact**
+**Product**
 
-[![GitHub](https://img.shields.io/badge/SharzhukovLab-FF5C1F?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SharzhukovLab)
-[![Telegram](https://img.shields.io/badge/@sharzhukovLab-FF5C1F?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/sharzhukovLab)
+[![GitHub](https://img.shields.io/badge/SharzhukovLab-FF5C1F?style=flat-square&logo=github&logoColor=white)](https://github.com/SharzhukovLab)
+[![Telegram](https://img.shields.io/badge/@sharzhukovLab-FF5C1F?style=flat-square&logo=telegram&logoColor=white)](https://t.me/sharzhukovLab)
 
 </div>
 
