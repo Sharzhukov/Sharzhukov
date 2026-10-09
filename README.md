@@ -26,7 +26,7 @@ I work in **information security** and build software across several domains —
 
 My major project — **Sharzhukov Laboratory** — is a web-based platform and software development hub. The goal is to build modern, secure, and reliable software with advanced technologies.
 
-> Currently working at **Yandex** & **UEA***.
+> Currently working at **Yandex** & **UAE***.
 
 ---
 
