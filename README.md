@@ -147,7 +147,7 @@ A web-based platform for software development, deployment, and lifecycle managem
 
 <table width="100%">
 <tr>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
 **Personal**
 
@@ -158,14 +158,24 @@ A web-based platform for software development, deployment, and lifecycle managem
 | ✈️ | [@sharzhukov](https://t.me/sharzhukov) |
 
 </td>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
-**Product**
+**Portfolio**
 
 | | |
 |---|---|
 | 🐙 | [github.com/SharzhukovLab](https://github.com/SharzhukovLab) |
 | ✈️ | [@sharzhukovLab](https://t.me/sharzhukovLab) |
+
+</td>
+<td width="33%" valign="top">
+
+**Product**
+
+| | |
+|---|---|
+| 🐙 | [github.com/ClashCloudDev](https://github.com/ClashCloudDev) |
+| ✈️ | [@ClashCloudDev](https://t.me/ClashCloudDev) |
 
 </td>
 </tr>
