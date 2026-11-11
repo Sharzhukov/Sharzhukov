@@ -164,6 +164,7 @@ A web-based platform for software development, deployment, and lifecycle managem
 
 | | |
 |---|---|
+| 🌐 | [sharzhukov.com](https://sharzhukov.com) |
 | 🐙 | [github.com/SharzhukovLab](https://github.com/SharzhukovLab) |
 | ✈️ | [@sharzhukovLab](https://t.me/sharzhukovLab) |
 
@@ -174,6 +175,7 @@ A web-based platform for software development, deployment, and lifecycle managem
 
 | | |
 |---|---|
+| 🌐 | [clashcloud.dev](https://clashcloud.dev) |
 | 🐙 | [github.com/ClashCloudDev](https://github.com/ClashCloudDev) |
 | ✈️ | [@ClashCloudDev](https://t.me/ClashCloudDev) |
 
