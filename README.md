@@ -58,7 +58,7 @@ My major project — **Sharzhukov Laboratory** — is a web-based platform and s
 <td valign="middle">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="20" align="middle" /> <code>Windows</code> &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" height="20" align="middle" /> <code>macOS</code> &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nixos/nixos-original.svg" height="20" align="middle" /> <code>Nix</code> &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-original.svg" height="20" align="middle" /> <code>Nix</code> &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="20" align="middle" /> <code>Arduino</code>
 </td>
 </tr>
