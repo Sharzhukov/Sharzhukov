@@ -40,7 +40,7 @@ My major project — **Sharzhukov Laboratory** — is a web-based platform and s
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="20" align="middle" /> <code>C#</code> &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="20" align="middle" /> <code>C</code> &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="20" align="middle" /> <code>PHP</code> &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="20" align="middle" /> <code>Java</code>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/rust-original.svg" height="20" align="middle" /> <code>Rust</code>
 </td>
 </tr>
 <tr>
