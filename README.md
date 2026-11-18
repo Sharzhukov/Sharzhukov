@@ -24,7 +24,7 @@
 
 I work in **information security** and build software across several domains — **video games**, **web platforms**, **APIs**, and **applied cryptography**.
 
-My major project — **Sharzhukov Laboratory** — is a web-based platform and software development hub. The goal is to build modern, secure, and reliable software with advanced technologies.
+My major project — **ClashCloud** — is a web-based platform and software development hub. The goal is to build modern, secure, and reliable software with advanced technologies.
 
 > Currently working at **Yandex** & **UAE***.
 
